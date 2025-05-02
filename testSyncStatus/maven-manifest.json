@@ -1,1 +1,1 @@
-git sync
+git sync update
