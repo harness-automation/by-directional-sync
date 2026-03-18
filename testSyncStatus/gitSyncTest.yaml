@@ -1,4 +1,4 @@
 pipeline:
   name: test
   identifier:
-    - broken: git sync
+    - broken: git sync update
